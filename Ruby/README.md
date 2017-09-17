@@ -16,6 +16,7 @@
 ```
 git clone https://github.com/sheikhms60/Cerner2to5.git
 cd Cerner2to5
+cd Ruby
 ruby Cerner2to5 Rowling
 ```
 ### Expected result
